@@ -1,7 +1,7 @@
 package first
 
 import (
-	"github.com/ctx42/int-tst/pkg/mocker/second"
+	"github.com/ctx42/tst-int/pkg/mocker/second"
 )
 
 // Medium represents test interface.
